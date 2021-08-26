@@ -26,6 +26,6 @@ and if you click on > right then the loop work from one image to next
 
 Mouse event : if you scroll your mouse on image then image is stay on and if you remove cursor from image than image sliding 
 
-AutoPlay: every 4000
+AutoPlay: After every 4000sec if you not clicked on image and left right button they automatic goto next slide
 
 
